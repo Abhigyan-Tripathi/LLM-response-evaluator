@@ -1,0 +1,9 @@
+flask
+torch
+transformers
+protobuf<=3.20.3
+accelerate
+numpy
+pandas
+python-dotenv
+flask-cors
